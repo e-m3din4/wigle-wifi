@@ -17,14 +17,17 @@ To use this tool, you need to have Python 3 installed on your system. You also n
 
 - Open a terminal or command prompt in the directory where you extracted the files and run the command 
 
-pip install -r requirements.txt 
+pip3 install -r requirements.txt 
 
 ...to install the required Python libraries.
 
 ## Usage
 
 - Open a terminal or command prompt in the directory where you extracted the files.
-- Run the command python3 wigle-wifi.py to start the tool.
+- Run the command: 
+  
+  python3 Wigle-WiFi.py 
+
 - Choose option 1 to get the location of a Wi-Fi access point.
 - Enter the MAC address of the access point when prompted.
 - The tool will display the latitude and longitude of the access point's location.
