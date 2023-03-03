@@ -1,4 +1,37 @@
-# Wigle-WiFi - WiFi Access Point Trilateration Tool.
+         
+                               ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+                            y@@@@@@@@@@@@@@@@@@@@@@KMM%%%@@@@%%%MMK@@@@@@@@@@@@@@@@@@@@@@p
+                           ]@@@@@@@@@@@@@@@@@KM%@@@@@@@@@@@@@@@@@@@@@@RMK@@@@@@@@@@@@@@@@@@
+                           $@@@@@@@@@@@@@@M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@MK@@@@@@@@@@@@@@
+                           $@@@@@@@@@@@M@@@@@@@@@@@@@@@@@@@KMMM%%%%%%%%%MMKK@@R@@@@@@@@@@@@
+                           $@@@@@@@@@0@@@@@@@@@@@@@@@KM%%kRPPPIBR|zPww||||kkkBBBR0@@@@@@@@@
+                           $@@@@@@@0@@@@@@@@@@@@@K%E|||||||||||||mw|TkBU|||kkkBBFv?@@@@@@@@
+                           $@@@@@M@@@@@@@@@@@@@MkBP||||||||||mBWWPT>wIRRBmH|TBBBBBBc1@@@@@@
+                           $@@@@K@@@@@@@@@@@M%kRBF||||||||||TTBBPm||||TBBRRBmBBBBBBBU?@@@@@
+                           $@@@U@@@@@@@@@@MHRRRRH||||||||||||||TH||||||||TRBBBBBBBBBBFJ@@@@
+                           $@@D@@@@@@@@@@HRRRRB|||||||||vTPU|||||||||TkBPw(TBBBBBBBBBBFJ@@@
+                           $@M$@@@@@@@@KkRRRRF||||||||||||TH|kHzY||zPkzmBRRRBBBBBBBBBB@U1@@
+                           $@U@@@@@@@@HRRRRRB|||||||||||||||||||||mkRRRRRRRRBBBBBBBBBBBB|@@
+                           $@$@@@@@@@HRRRRRRB||||||||||||||||||||BRRRRRRRRRRBBBBBBBBBBB@H1@
+                           $@$@@@@@@MRRRRRRRRJH|||||||||||||||zmBRRRRRRRRRRBBBBBBBBBBBBBP4@
+                           $@$@@@@@@kRRRRRRRRIP||||||mPBmkBmHTRRRRRRRRRRRRRBBBBBBBBBBBBBB4@
+                           $@%@@@@@HRRRRRRRRRWkH|||vBRRRRRRRBckRBRRRRRRRRRBBBBBBBBBBBBB@Ej@
+                           $@&@@@@@RRRRRRRRRRRRB|||TRRRRBBRBBPBkPRRRRRRRRBBBBBBBBBBBBBB@F&@
+                           $@@%@@@@RRRRRRRRRRRRRm|||TBPH|kRRRRBmIIPPBRRRBBBBBBBBBBBBBB@Bk@@
+                           $@@@@@@@RRRRRRRRRRRRRRRBmmc||TPPBRRBBBBBBBBBBBBBBBBBBBBBBB@@F@@@
+                           $@@@&@@@BBRRRRRRRRRRRRRRRRRBPm||BRRRRRRRBBBBBBBBBBBBBBBBB@@B&@@@
+                           $@@@@&@@RBBBBRRRRRRRRRRRRRRRRRBwTBBBBFTTBFkBBRBBBBBBBBBB@@R&@@@@
+                           $@@@@@@%@BBBBBBBBBRRRRRRRRRRRRRBBBBBH|kkkkkkkkkkkBBBBB@@@k@@@@@@
+                           $@@@@@@@RkBBBBBBBBBBBBBBBBBBBBBBBBBBPkkkkkkkkkBBBBB@BB@B$@@@@@@@
+                           $@@@@@@@@@|%BBBBBBBBBBBBBBBBBBBBBRkkkkkkkkkBBBBBB@B@BB$@@@@@@@@@
+                           $@@@@@@@@@@@|TBBBBBBBBBBBBBBBBBBkkkkkkkkBBBBBB@B@BBR@@@@@@@@@@@@
+                           $@@@@@@@@@@@@@@|TBBBBBBBBBBBBBBBBkBBBBBBBBB@BBBBR$@@@@@@@@@@@@@@
+                           1@@@@@@@@@@@@@@@@@p}PBBBBBBBBBBBB@@BBB@BBBBBR$@@@@@@@@@@@@@@@@@@
+                            %@@@@@@@@@@@@@@@@@@@@@@p@IPRBBBBBBRPP$$@@@@@@@@@@@@@@@@@@@@@@@F
+                             'I%MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM%F'
+                                ````````````````````````````````````````````````````````
+     
+                                    # Wigle-WiFi - WiFi Access Point Trilateration Tool.
 
 This tool allows you to get the approximate location of a Wi-Fi access point (AP) using the long-awaited: Wigle.net API. The tool uses trilateration to calculate the AP's location based on its signal strength and the location of nearby access points.
 
