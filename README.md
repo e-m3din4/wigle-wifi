@@ -33,6 +33,8 @@
      
                                # Wigle-WiFi - WiFi Access Point Trilateration Tool.
 
+# Wigle-WiFi
+
 This tool allows you to get the approximate location of a Wi-Fi access point (AP) using the long-awaited: Wigle.net API. The tool uses trilateration to calculate the AP's location based on its signal strength and the location of nearby access points.
 
 ## Requirements
